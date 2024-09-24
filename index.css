@@ -74,16 +74,16 @@ body {
   transform: translate(-50%, -50%);
   text-align: center;
 }
-.text h2 {
+.word h2 {
   color: var(--White);
   margin-top: 20px;
   margin-bottom: 20px;
   font-weight: 600;
 }
-h2:hover {
+.word h2:hover {
   color: var(--Cyan);
 }
-.text h4 {
+.word h4 {
   color: var(--Softblue);
   margin-bottom: 20px;
   font-weight: 300;
